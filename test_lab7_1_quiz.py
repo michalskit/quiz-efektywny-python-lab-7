@@ -1,5 +1,5 @@
 import unittest
-from lab7_quiz import SmartLight, AudioSystem, SmartSpeaker, CleaningRobot
+from lab7_1_quiz import SmartLight, AudioSystem, SmartSpeaker, CleaningRobot
 
 class TestSmartLight(unittest.TestCase):
     def test_brightness_setter(self):
